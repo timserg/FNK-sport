@@ -1,0 +1,79 @@
+.header{
+  background-color: #2f562f;
+  padding-bottom: 20px;
+  padding-top: 10px;  
+}
+
+.col-lg-12 {
+  margin-bottom: 17px;
+}
+.col-lg-12 h1 {
+  margin-left: 20px;
+}
+
+.col-lg-6 {
+  background-color: white;
+}
+.btn-info {
+  width: 100px;
+  background-color: #0e6c88;
+  border-color:unset;
+}
+.form-group {
+  margin-bottom: 15px;
+  margin-left: 235px;
+}
+.btn-default {
+  background-color: #a8b7b1;
+}  
+.panel-success>.panel-heading {
+    color: #ded134;
+    background: #426534;
+    border-color: #b9c380;
+    height: 100%;
+}
+.panel-success {
+  border-color: #b9c380;
+  height: 100%;
+}
+a {
+  color:#ded134;
+  text-decoration: none;
+}
+a:hover {
+  color:#ded134;
+  text-decoration: underline;
+}
+.panel-body {
+  padding: 15px;
+  background: #2f562f;
+}
+
+.sidebar-header {
+  color: white;
+}
+.darkgreen {
+  color:darkgreen;
+}
+.col-lg-7 h4 {
+  color: red;
+}
+.col-lg-7 .tablo {
+  color: blue;
+  font-weight: bold;
+}
+.col-lg-3 h1 {
+  color: rgb(127, 209, 5);
+}
+.col-lg-3 {
+  background-color:#f1f8e4;  
+}
+.news a {
+  color: green;
+}
+.times {
+  color: red;
+}
+.col-lg-2 {
+  padding-left: 0px;
+}
